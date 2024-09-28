@@ -1,4 +1,4 @@
-PatchAlign: Fair and Accurate Skin Disease Image Classification by Alignment with Clinical Labels [MICCAI 2024]
+PatchAlign : Fair and Accurate Skin Disease Image Classification by Alignment with Clinical Labels [MICCAI 2024]
 ====================================================
 
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/) 
