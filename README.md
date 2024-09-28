@@ -3,6 +3,8 @@ PatchAlign: Fair and Accurate Skin Disease Image Classification by Alignment wit
 
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/) 
 
+[[`pdf`](https://arxiv.org/pdf/2409.04975)] 
+
 ![Patch Align Diagram](Images/PatchAlign.png)
 <p align="center">PatchAlign: Our proposed alignment-based skin disease classifier</p>
 
