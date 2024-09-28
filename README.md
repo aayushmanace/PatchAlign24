@@ -1,5 +1,7 @@
-PatchAlign: Fair and Accurate Skin Disease Image Classification by Alignment with Clinical Labels
+PatchAlign: Fair and Accurate Skin Disease Image Classification by Alignment with Clinical Labels [MICCAI 2024]
 ====================================================
+
+[![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/) 
 
 ![Patch Align Diagram](Images/PatchAlign.png)
 <p align="center">PatchAlign: Our proposed alignment-based skin disease classifier</p>
@@ -10,6 +12,10 @@ PatchAlign: Fair and Accurate Skin Disease Image Classification by Alignment wit
   * [Training](#training)
   * [Evaluation](#evaluation)
   * [Acknowledgements](#acknowledgements)
+
+Paper
+----------------------
+ This repo is part of paper 
 
   Requirements
 ----------------------
