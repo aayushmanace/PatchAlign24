@@ -5,6 +5,8 @@ PatchAlign : Fair and Accurate Skin Disease Image Classification by Alignment wi
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2307.07269)
 
+<hr />
+
 ![Patch Align Diagram](Images/PatchAlign.png)
 <p align="center">PatchAlign: Our proposed alignment-based skin disease classifier</p>
 
@@ -15,9 +17,7 @@ PatchAlign : Fair and Accurate Skin Disease Image Classification by Alignment wi
   * [Evaluation](#evaluation)
   * [Acknowledgements](#acknowledgements)
 
-Paper
-----------------------
- This repo is part of paper 
+<hr />
 
   Requirements
 ----------------------
@@ -26,6 +26,7 @@ The libraries used and their version requirements for running the code are given
 pip install -r requirements.txt
 ```
 
+<hr />
 
 Data
 ----------------------
@@ -38,6 +39,7 @@ Data
 4. Change the fitzpatrick skin-tones number in ddi_metadata_code.csv from 1,2,3 to 1,3,5 respectively before running the code.
 5. Note: For Text Embeddings use 'text_embeddings_3_large_consecutive_averaged.npy' directly or use create_embeddings.ipynb to test other ways of creating text embeddings.
 
+<hr />
 
 Training
 ---------------------
@@ -72,13 +74,14 @@ Evaluation
 ---------------------
 Use multi_evaluate.ipynb
 
-
+<hr />
 
 Acknowledgements
 ----------------
 
 * This code was built on top of the codebase of [FairDisCo][6], [ GOT][10]. We thank the developers of the [Fitzpatrick17k][8] dataset and [DDI][9] dataset for providing the dataset.[ FairDisCo][6] for  providing the baseline.
 
+<hr />
 
 [1]: https://github.com/mattgroh/fitzpatrick17k
 [2]: https://ddi-dataset.github.io/index.html#dataset
