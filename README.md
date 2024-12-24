@@ -76,6 +76,22 @@ Use multi_evaluate.ipynb
 
 <hr />
 
+Citation
+---------------
+Please cite the paper and star this repository if you use our work. Queries regarding the paper or the code may be directed to [aayushman20@iiserb.ac.in](mailto:aayushman20@iiserb.ac.in). Alternatively, you may also open an issue on this repository.
+
+```bibtex
+@misc{aayushman2024patchalignfairaccurateskindisease,
+      title={PatchAlign:Fair and Accurate Skin Disease Image Classification by Alignment with Clinical Labels}, 
+      author={Aayushman and Hemanth Gaddey and Vidhi Mittal and Manisha Chawla and Gagan Raj Gupta},
+      year={2024},
+      eprint={2409.04975},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.04975}, 
+}
+```
+
 Acknowledgements
 ----------------
 
